@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1670px;
+    margin: 100px auto;
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6{
+    line-height: 0.8;
+}
+.big, .small{
+    font-size: 50px;
+    line-height: 1.50;
+    text-transform: uppercase;
+    text-align: center;
+}
+.small{
+    text-transform: unset;
+    margin-bottom: 100px;
+}
+.font_1{
+    font-family: 'Lobster', cursive;
+}
+.font_2{
+    font-family: 'Open Sans', sans-serif;
+}
+.font_3{
+    font-family: 'Montserrat', sans-serif;
+}
+.font_4{
+    font-family: 'Kaushan Script', cursive;
+}
+.font_5{
+    font-family: 'Roboto', sans-serif;
+}
+.font_6{
+    font-family: 'Ubuntu', sans-serif;
+}
+.font_7{
+    font-family: 'Abril Fatface', cursive;
+}
+.font_8{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.font_9{
+    font-family: 'Great Vibes', cursive;
+}
+.font_10{
+    font-family: 'Poppins', sans-serif;
+}
+.font_11{
+    font-family: 'Nunito', sans-serif;
+}
+.font_12{
+    font-family: 'Paprika', cursive;
+}
+.font_13{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.font_14{
+    font-family: 'Petit Formal Script', cursive;
+}
+.font_15{
+    font-family: 'Noto Serif', serif;
+}
+.font_16{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.font_17{
+    font-family: 'Inter', sans-serif;
+}
+.font_18{
+    font-family: 'Fugaz One', cursive;
+}
+.font_19{
+    font-family: 'Manrope', sans-serif;
+}
+.font_20{
+    font-family: 'Quicksand', sans-serif;
+}
+.font_21{
+    font-family: 'Roboto Flex', sans-serif;
+}
